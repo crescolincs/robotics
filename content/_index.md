@@ -1,23 +1,23 @@
 ---
-title: 'Invest in the Intelligent Robotics sector.Invest in Lincolnshire'
+title: 'Invest in the AI & Intelligent Robotics sector.Invest in Lincolnshire'
 socialImage: 'robotics-header.png'
 sector: intelligent-robotics
 seoDescription: >-
-              Lincolnshire is at the heart of the UK’s Intelligent Robotics sector, enabling businesses to achieve step-change improvements in productivity, sustainability and performance. For Intelligent Robotics companies investing in the UK, Lincolnshire presents a unique location opportunity for business expansion, relocation, start-up and innovation.
+              Lincolnshire's industrial sectors are underpinned by leading-edge regional capabilities in AI and intelligent robotics, enabling companies investing here to transform business efficiency, productivity and sustainability through digitalisation and automation.
 ctaarrowclrdark: '#7a7a7f'             
 ctaarrowclrlight: '#ded3d3'             
 
 hero:
   display: true
-  heading: "Invest in Lincolnshire's Advanced Intelligent Robotics:  Key Benefits and Opportunities"
+  heading: "AI & Intelligent Robotics"
   blurb: >-
-        Lincolnshire is at the heart of the UK’s Intelligent Robotics sector, enabling businesses to achieve step-change improvements in productivity, sustainability and performance. For Intelligent Robotics companies investing in the UK, Lincolnshire presents a unique location opportunity for business expansion, relocation, start-up and innovation.
+        Lincolnshire's industrial sectors are underpinned by leading-edge regional capabilities in AI and intelligent robotics, enabling companies investing here to transform business efficiency, productivity and sustainability through digitalisation and automation.
   heroImg: 'robotics-header.png'
 
 investmentopportunity:
-  display: true
-  heading: 'The Lincolnshire Intelligent Robotics Investment Opportunity'
-  subheading: 'For investing Intelligent Robotics businesses, Lincolnshire offers:'
+  display: false
+  heading: 'The AI & Intelligent Robotics Opportunity'
+  subheading: 'For investing AI & Intelligent Robotics businesses, Lincolnshire offers:'
   offer:
    - icon: 'market.svg'
      title: 'Market Opportunity'
