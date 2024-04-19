@@ -188,7 +188,7 @@ companylogos:
 
 support:
   display: true
-  heading: Support for Your Intelligent Robotics Sector Business Investment
+  heading: Support for Your Business Investment
   lead: >-
       Working together, Invest Lincolnshire and our partner organisations, including local authorities, education providers and businesses, provide dedicated support to ensure a ‘soft landing’ for companies locating and investing in Lincolnshire.
   ctatext: about support for investing businesses from Invest Lincolnshire
@@ -202,10 +202,10 @@ sectorCTA:
   headingcolor: light
   buttoncolor: '#e75a13'
   buttonhover: '#af0000'
-  image: adv-eng-manu-brochure.png
-  heading: Get the Data on Lincolnshire as a Intelligent Robotics Business Location
+  image: brochure-form.png
+  heading: Get the data on Lincolnshire as a location for your business
   lead: >-
-     Lincolnshire’s Intelligent Robotics sector Business Location Guide provides essential information and data for companies researching and evaluation Lincolnshire as a potential investment location, including:                                       
+     Lincolnshire’s sector-focused Business Location Guides provide essential information and data for companies researching and evaluating Lincolnshire as a potential investment location. Insights include:                                       
   brochurecontents:
     - highlight: The market opportunity
     - highlight: Industry clusters
