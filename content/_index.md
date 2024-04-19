@@ -194,7 +194,7 @@ support:
   ctatext: about support for investing businesses from Invest Lincolnshire
   image: grey-grad
 articles:
-  display: true
+  display: false
   heading: Articles for Intelligent Robotics in Lincolnshire
 sectorCTA:
   display: true
