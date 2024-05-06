@@ -216,6 +216,12 @@ sectorCTA:
     - highlight: Location & sector data sets
     - highlight: Support for investing businesses
   contentscolour: 'text-white'
+  formhandler: multibrochurestep1
+  hiddenformfields:
+     - field: page
+       value: ai-and-intelligent-robotics
+     - field: cc
+       value: dklongley@clarity-strategies    
   footerimg: blue-half-grad.png 
 ---
 
