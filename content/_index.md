@@ -218,6 +218,8 @@ sectorCTA:
   contentscolour: 'text-white'
   formhandler: multibrochurestep1
   hiddenformfields:
+     - field: brochure
+       value: multiple  
      - field: page
        value: ai-and-intelligent-robotics
      - field: cc
