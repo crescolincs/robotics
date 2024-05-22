@@ -1,5 +1,6 @@
 languageCode = 'en-uk'
 title = 'Invest in UK Intellignt Robotics, Greater Lincolnshire provides Intelligent Robotics businesses with direct access to high-growth market opportunities, combined uniquely with world-class digitalisation and automation solutions.'
+baseURL = 'https://ai-and-robotics.investlincolnshire.co.uk/'
 
 [params]
   contactdomain = 'https://investlincolnshire.co.uk/'
