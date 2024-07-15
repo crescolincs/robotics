@@ -24,8 +24,6 @@ roboticsstory:
     investing here to transform business efficiency, productivity and
     sustainability through digitalisation and automation.
   body: >-
-    
-
     ![](https://res.cloudinary.com/lincs/image/upload/w_850/APRIL_Robotics_Robot_Chef_in_test_centre.jpg)
 
 
@@ -61,8 +59,6 @@ roboticsstory:
     ![](https://res.cloudinary.com/lincs/image/upload/w_850/robotics.jpg)
 
 
-
-
     **The Lincoln Institute for Agri-Food Technology (LIAT):** a multi-disciplinary, sector-leading centre of expertise in AI, robotics, engineering, crop science, environmental sustainability, food manufacturing, product development and supply chains. Robotics and automation projects include robotic phenotyping, collaborative robots in the food industry, selective harvesting and weeding robots, novel sensing systems, and real time data analysis for crop care.
 
 
@@ -84,10 +80,7 @@ roboticsstory:
     **Food manufacturing robotics and automation:** The University of Lincoln’s National Centre for Food Manufacturing works closely with the food manufacturing sector to improve productivity, traceability and sustainability throughout the supply chain.
 
 
-    **Wareh**
-
-
-    **ouse logistics:** The Lincoln Centre for Autonomous Systems (L-CAS) has collaborated with companies including Hikrobot to automate warehouse processes, bringing improved accuracy, productivity and traceability.
+    **Warehouse logistics:** The Lincoln Centre for Autonomous Systems (L-CAS) has collaborated with companies including Hikrobot to automate warehouse processes, bringing improved accuracy, productivity and traceability.
 
 
     **Defence & security:** Lincolnshire is a UK centre of excellence for defence and security technologies. Industry and academia have collaborated closely in areas including ISTAR, AI and robotics, including RCVs for hostile environments.
