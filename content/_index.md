@@ -1,6 +1,6 @@
 ---
 title: 'Invest in the AI & Intelligent Robotics sector.Invest in Lincolnshire'
-socialImage: 'robotics-header.png'
+socialImage: 'https://res.cloudinary.com/lincs/image/upload/robotics-header.png'
 sector: intelligent-robotics
 seoDescription: >-
               Lincolnshire's industrial sectors are underpinned by leading-edge regional capabilities in AI and intelligent robotics, enabling companies investing here to transform business efficiency, productivity and sustainability through digitalisation and automation.
