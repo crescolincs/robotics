@@ -24,8 +24,9 @@ roboticsstory:
     investing here to transform business efficiency, productivity and
     sustainability through digitalisation and automation.
   body: >-
-    ![Cat](https://res.cloudinary.com/lincs/image/upload/w_850/APRIL_Robotics_Robot_Chef_in_test_centre.jpg
-    "Reasonable title")
+    ![Image of food processing
+    robot](https://res.cloudinary.com/lincs/image/upload/w_850/APRIL_Robotics_Robot_Chef_in_test_centre.jpg
+    "Image of food processing robot")
 
 
     ### Applying AI to Industrial Challenges
@@ -57,7 +58,7 @@ roboticsstory:
     **The Lincoln Centre for Autonomous Systems (L-CAS):** a nationally recognised, cross-disciplinary centre for robotics research, bringing together academics and companies from sectors including agrifood, agri-tech, logistics, nuclear, space and healthcare.
 
 
-    ![](https://res.cloudinary.com/lincs/image/upload/w_850/robotics.jpg)
+    ![Image of agricultural robot](https://res.cloudinary.com/lincs/image/upload/w_850/robotics.jpg "Image of agricultural robot")
 
 
     **The Lincoln Institute for Agri-Food Technology (LIAT):** a multi-disciplinary, sector-leading centre of expertise in AI, robotics, engineering, crop science, environmental sustainability, food manufacturing, product development and supply chains. Robotics and automation projects include robotic phenotyping, collaborative robots in the food industry, selective harvesting and weeding robots, novel sensing systems, and real time data analysis for crop care.
