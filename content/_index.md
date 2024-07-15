@@ -91,36 +91,6 @@ support:
   lead: >-
       Working together, Invest Lincolnshire and our partner organisations, including local authorities, education providers and businesses, provide dedicated support to ensure a ‘soft landing’ for companies locating and investing in Lincolnshire.
   ctatext: about support for investing businesses from Invest Lincolnshire
-companylogos:
-  display: false
-  heading: Home to Leading Intelligent Robotics Businesses
-  subheading: Businesses established in Lincolnshire’s Intelligent Robotics sector include
-  scrollbarclr: '#90a6ca'
-  companies:
-   - name: BA Systems
-     logo: bae-systems-logo.png
-   - name: Collins Aerospace
-     logo: collins-logo.png
-   - name: Siemens
-     logo: siemens-logo.png
-   - name: BA Systems
-     logo: bae-systems-logo.png
-   - name: Collins Aerospace
-     logo: collins-logo.png
-   - name: Siemens
-     logo: siemens-logo.png
-   - name: BA Systems
-     logo: bae-systems-logo.png
-   - name: Collins Aerospace
-     logo: collins-logo.png
-   - name: Siemens
-     logo: siemens-logo.png
-   - name: BA Systems
-     logo: bae-systems-logo.png
-   - name: Collins Aerospace
-     logo: collins-logo.png
-   - name: Siemens
-     logo: siemens-logo.png 
 
 support:
   display: true
@@ -128,7 +98,7 @@ support:
   lead: >-
       Working together, Invest Lincolnshire and our partner organisations, including local authorities, education providers and businesses, provide dedicated support to ensure a ‘soft landing’ for companies locating and investing in Lincolnshire.
   ctatext: about support for investing businesses from Invest Lincolnshire
-  image: grey-grad
+  image: https://res.cloudinary.com/lincs/image/upload/grey-grad
 articles:
   display: false
   heading: Articles for Intelligent Robotics in Lincolnshire
@@ -138,7 +108,7 @@ sectorCTA:
   headingcolor: light
   buttoncolor: '#e75a13'
   buttonhover: '#af0000'
-  image: brochure-form.png
+  image: https://res.cloudinary.com/lincs/image/upload/brochure-form.png
   heading: Get the data on Lincolnshire as a location for your business
   lead: >-
      Lincolnshire’s sector-focused Business Location Guides provide essential information and data for companies researching and evaluating Lincolnshire as a potential investment location. Insights include:                                       
@@ -160,6 +130,6 @@ sectorCTA:
        value: ai-and-intelligent-robotics
      - field: cc
        value: dklongley@clarity-strategies    
-  footerimg: blue-half-grad.png 
+  footerimg: https://res.cloudinary.com/lincs/image/upload/blue-half-grad.png 
 ---
 
