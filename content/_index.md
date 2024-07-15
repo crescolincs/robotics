@@ -24,7 +24,7 @@ roboticsstory:
     investing here to transform business efficiency, productivity and
     sustainability through digitalisation and automation.
   body: >-
-    ![](https://res.cloudinary.com/lincs/image/upload/w_850/APRIL_Robotics_Robot_Chef_in_test_centre.jpg)
+    ![Cat](https://res.cloudinary.com/lincs/image/upload/w_850/APRIL_Robotics_Robot_Chef_in_test_centre.jpg)
 
 
     ### Applying AI to Industrial Challenges
