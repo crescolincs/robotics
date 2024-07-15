@@ -12,7 +12,7 @@ hero:
   heading: "AI & Intelligent Robotics"
   blurb: >-
         Lincolnshire's industrial sectors are underpinned by leading-edge regional capabilities in AI and intelligent robotics, enabling companies investing here to transform business efficiency, productivity and sustainability through digitalisation and automation.
-  heroImg: 'robotics-header.png'
+  heroImg: 'https://res.cloudinary.com/lincs/image/upload/robotics-header.png'
 
            
 
