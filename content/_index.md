@@ -123,7 +123,7 @@ sectorCTA:
      - field: page
        value: ai-and-intelligent-robotics
      - field: cc
-       value: dklongley@clarity-strategies    
+       value: investment@lincolnshire.gov.uk    
   footerimg: https://res.cloudinary.com/lincs/image/upload/blue-half-grad.png 
 ---
 
